@@ -6,6 +6,18 @@ Welcome to the ultimate toolkit for **Text-to-Speech (TTS)** and **Voice Convers
 
 ---
 
+## 🎥 Featured Examples
+
+### 1. Video Essay: *Stalker's Lament: In the Shadow of the Zone*
+[![How AI Voices Are Changing Everything](https://img.youtube.com/vi/59oIyGsPCT8/0.jpg)](https://www.youtube.com/watch?v=59oIyGsPCT8)
+> An insightful video essay analyzing the film *Stalker*, exploring its themes, symbolism, and influence in cinema.
+
+### 2. Audiobook: *Joshua Graham Reads Gibbon's Decline and Fall - Vol.1 Ch.1*
+[![The Future of Voice Synthesis Audiobook](https://img.youtube.com/vi/stJiy4765gM/0.jpg)](https://www.youtube.com/watch?v=stJiy4765gM)
+> Listen to the first part of Chapter 1 from Edward Gibbon’s classic *The Decline and Fall of the Roman Empire*.
+
+---
+
 ## 🚀 What is this?
 
 **TorToiSe-TTS-RVC-Voice-Generation** is a Colab-ready, open source solution for:
