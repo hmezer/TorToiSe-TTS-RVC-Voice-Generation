@@ -1,3 +1,5 @@
+| Since the underlying libraries are no longer maintained and I did not freeze versions of them to the current project through a fork, this pipeline is obsolete. 
+
 # TorToiSe-TTS-RVC-Voice-Generation
 
 **Revolutionize AI Voice Synthesis & Cloning in Minutes!**
